@@ -1,0 +1,12 @@
+import random 
+
+lista_aletoria = random.sample(range(1,100),20)
+
+Colores = ["Azul", "Rojo", "Verde", "Amarillo", "Negro"]
+print (Colores)
+
+Color_nuevo = input("Ingresa el color que quieres agregar a la lista: ")
+Posicion = int(input("Selecciona en la posicion donde quieres agregar el nuevo color: "))
+
+Colores.insert(Posicion, Color_nuevo)
+print(Colores)

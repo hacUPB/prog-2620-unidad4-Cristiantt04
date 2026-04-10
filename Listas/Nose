@@ -1,0 +1,5 @@
+Vuelo = dict(aerolinea="avianca", vuelo="AV123", origen="BOG", destino="MDE")
+
+ciudad_llegada = Vuelo["destino"]
+print(ciudad_llegada)
+

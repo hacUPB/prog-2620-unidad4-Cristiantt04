@@ -1,0 +1,18 @@
+# Programa 1: Suma de dos matrices 2x2
+
+# Definimos dos matrices de manera horizontal
+matrizA = [[1, 2], [3, 4]]
+matrizB = [[5, 6], [7, 8]]
+
+# Creamos una matriz vacía para guardar el resultado
+matrizSuma = [[0, 0], [0, 0]]
+
+# Recorremos filas y columnas con ciclos for
+for i in range(2):          # recorre las filas
+    for j in range(2):      # recorre las columnas
+        matrizSuma[i][j] = matrizA[i][j] + matrizB[i][j]
+
+# Mostramos el resultado
+print("Matriz A:", matrizA)
+print("Matriz B:", matrizB)
+print("Suma de matrices:", matrizSuma)
