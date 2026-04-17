@@ -125,6 +125,6 @@ Multipliquen la nota asignada en cada criterio por su porcentaje respectivo y su
 |4. Funcionalidad	|5.0	|15% |(0.15)	|[Resultado]|
 |5. Sustentación (Estimado)|	4.0|	15%| (0.15)|	[Resultado]|
 
-NOTA FINAL ESPERADA		100%	[SUMA TOTAL]
+NOTA FINAL ESPERADA		100%	[4.65]
 
 ✨ ""La educación es para el carácter, no solo para la mente"." ✨
