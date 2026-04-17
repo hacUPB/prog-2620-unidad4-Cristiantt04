@@ -100,9 +100,10 @@
     > *Nuestro programa permite que el usuario ingrese los datos de varias aeronaves, y los va almacenando.El usuario tiene la opcion de reistrar las aeronaves que el quiera, registrar nuevos componentes, modificar las aeronaves, o modificar componentes.Otra de las opciones es que permite hacer un reporte de los componentes de las aeronaves que necesitan mantenimiento, para ello muestra muestra la matricula de la aeronave junto con el componente que necesita mantenimiento.*
 * **Evidencia:** 
 
-![Imágen1](./Imágenes/Parte1.png)
+![Imágen1](./Imagenes/Imagen_autoevaluacion1.jpeg)
+
 --- 
-![Imágen2](./Imágenes/Parte2.png)
+![Imágen2](./Imagenes/Imagen_autoevaluacion2.jpeg)
 
 ### Criterio 5: Preparación para Sustentación (Valor: 15%)
 *Aunque esta nota la dará el profesor en la entrevista oral, autoevalúen su nivel de preparación y comprensión del código que entregaron.*
@@ -125,6 +126,6 @@ Multipliquen la nota asignada en cada criterio por su porcentaje respectivo y su
 |4. Funcionalidad	|5.0	|15% |(0.15)	|[Resultado]|
 |5. Sustentación (Estimado)|	4.0|	15%| (0.15)|	[Resultado]|
 
-NOTA FINAL ESPERADA		100%	[SUMA TOTAL]
+NOTA FINAL ESPERADA		100%	[4.65]
 
 ✨ ""La educación es para el carácter, no solo para la mente"." ✨
