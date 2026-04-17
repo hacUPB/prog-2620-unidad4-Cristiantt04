@@ -100,10 +100,12 @@
     > *Nuestro programa permite que el usuario ingrese los datos de varias aeronaves, y los va almacenando.El usuario tiene la opcion de reistrar las aeronaves que el quiera, registrar nuevos componentes, modificar las aeronaves, o modificar componentes.Otra de las opciones es que permite hacer un reporte de los componentes de las aeronaves que necesitan mantenimiento, para ello muestra muestra la matricula de la aeronave junto con el componente que necesita mantenimiento.*
 * **Evidencia:** 
 
+
 ![Imágen1](./Imagenes/Imagen_autoevaluacion1.jpeg)
 
 --- 
 ![Imágen2](./Imagenes/Imagen_autoevaluacion2.jpeg)
+
 
 ### Criterio 5: Preparación para Sustentación (Valor: 15%)
 *Aunque esta nota la dará el profesor en la entrevista oral, autoevalúen su nivel de preparación y comprensión del código que entregaron.*
